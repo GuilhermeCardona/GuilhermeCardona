@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Meu nome é Guilherme Cardona | Engenharia de Software | Java | Javascritp | CSS | Html</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre Mim</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tenho conheciemntos sobre:</h2>
 
 ###
 
