@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Guilherme Cardona | Engenharia de Software | Java | JavaScript | CSS | HTML</p>
+<p align="left">Engenharia de Software | Java | JavaScript | CSS | HTML</p>
 
 ###
 
